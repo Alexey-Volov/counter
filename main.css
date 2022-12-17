@@ -1,0 +1,12 @@
+.counter {
+   margin-top: 250px;
+}
+.counter__wrapper {
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.counter__title {
+    text-align: center;
+}
